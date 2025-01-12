@@ -30,7 +30,7 @@
 
 <div> 
   
-  <a href="https://www.linkedin.com/in/jhonatan-santos-48b136258/" target="_blank">
+  <a href="https://www.linkedin.com/in/kayky-carrilho-636149237/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
