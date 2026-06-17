@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Kayky Carrilho, Desenvolvedor FULL-STACK!
 
 - 🔭 Hoje trabalho com FULLSTACK
-- 🌱 Amante da tecnologia
+- 🌱 Sempre evoluindo em arquitetura de sistemas, APIs e soluções escaláveis
 
 <div>
   <a href="https://github.com/KaykyC4rrilho/">
